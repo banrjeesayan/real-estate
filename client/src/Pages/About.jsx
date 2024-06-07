@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div className="py-20 px-4 max-w-6xl mx-auto">
-      <h1 className="text-3xl font-bold mb-4 text-slate-800">About Rentitt</h1>
+      <h1 className="text-3xl font-bold mb-4 text-slate-800">About MahiEstate</h1>
       <p className="mb-4 text-slate-700">
         Rentitt is a leading real estate agency that specializes in helping
         clients buy, sell, and rent properties in the most desirable
